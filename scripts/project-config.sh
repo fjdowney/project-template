@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Name of Schema
-SCHEMA_NAME=CHANGEME
+SCHEMA_NAME=CARS
 # Name of default workspace that applications are associated with
-APEX_WORKSPACE=CHANGEME
+APEX_WORKSPACE=COVID_CARS
 # Comma delimited list of APEX Applications to export. Ex: 100,200
-APEX_APP_IDS=CHANGEME
+APEX_APP_IDS=7200000
 
 
 # File extensions

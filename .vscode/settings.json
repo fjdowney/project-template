@@ -24,5 +24,7 @@
   "files.associations": {
     "*.pks": "plsql",
     "*.pkb": "plsql"
-  }
+  },
+  "plsql-language.connections": [],
+  "plsql-language.connection.activeInfos": ""
 }
